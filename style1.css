@@ -1,0 +1,95 @@
+.monday ul li:nth-child(1) {
+    color: green;
+}
+.monday ul li:nth-child(2) {
+    color: red;
+}
+.monday ul li:nth-child(3) {
+    color: grey;
+}
+.monday ul li:nth-child(4) {
+    color: yellow;
+}
+.monday ul li:nth-child(5) {
+    color: blue;
+}
+.tuesday ul li:nth-child(1) {
+    color: green;
+}
+.tuesday ul li:nth-child(2) {
+    color: red;
+}
+.tuesday ul li:nth-child(3) {
+    color: grey;
+}
+.tuesday ul li:nth-child(4) {
+    color: yellow;
+}
+.tuesday ul li:nth-child(5) {
+    color: blue;
+}
+.wednesday ul li:nth-child(1) {
+    color: green;
+}
+.wednesday ul li:nth-child(2) {
+    color: red;
+}
+.wednesday ul li:nth-child(3) {
+    color: grey;
+}
+.wednesday ul li:nth-child(4) {
+    color: yellow;
+}
+.wednesday ul li:nth-child(5) {
+    color: blue;
+}
+.thursday ul li:nth-child(1) {
+    color: green;
+}
+.thursday ul li:nth-child(2) {
+    color: red;
+}
+.thursday ul li:nth-child(3) {
+    color: grey;
+}
+.thursday ul li:nth-child(4) {
+    color: yellow;
+}
+.thursday ul li:nth-child(5) {
+    color: blue;
+}
+.friday ul li:nth-child(1) {
+    color: green;
+}
+.friday ul li:nth-child(2) {
+    color: red;
+}
+.friday ul li:nth-child(3) {
+    color: grey;
+}
+.friday ul li:nth-child(4) {
+    color: yellow;
+}
+.friday ul li:nth-child(5) {
+    color: blue;
+}
+.monday ul li:hover{
+    color: black;
+    background-color: pink;
+}
+.tuesday ul li:hover{
+    color: black;
+    background-color: pink;
+}
+.wednesday ul li:hover{
+    color: black;
+    background-color: pink;
+}
+.thursday ul li:hover{
+    color: black;
+    background-color: pink;
+}
+.friday ul li:hover{
+    color: black;
+    background-color: pink;
+}
